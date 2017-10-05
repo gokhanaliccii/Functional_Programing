@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.gokhanaliccii.fp.iml" filepath="$PROJECT_DIR$/.idea/modules/com.gokhanaliccii.fp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.gokhanaliccii.fp_main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.gokhanaliccii.fp_main.iml" group="com.gokhanaliccii.fp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.gokhanaliccii.fp_test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.gokhanaliccii.fp_test.iml" group="com.gokhanaliccii.fp" />
+    </modules>
+  </component>
+</project>
