@@ -4,7 +4,7 @@ import function.Predicate;
 
 import java.util.List;
 
-public class EmptyListPredicate<T> implements Predicate<List<T>> {
+public class EmptyListPredicate implements Predicate<List<?>> {
 
     @Override
     public boolean is(List list) {
