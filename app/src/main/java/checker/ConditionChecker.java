@@ -1,6 +1,5 @@
 package checker;
 
-import function.Predicate;
 import function.pure.EmptyListPredicate;
 import function.pure.EqualPredicate;
 import function.pure.NullPredicate;

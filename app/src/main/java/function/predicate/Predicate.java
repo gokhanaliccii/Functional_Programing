@@ -1,4 +1,4 @@
-package function;
+package function.predicate;
 
 public interface Predicate<T> {
 

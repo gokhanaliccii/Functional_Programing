@@ -1,7 +1,7 @@
 package function.pure;
 
 
-import function.Predicate;
+import function.predicate.Predicate;
 
 public class EqualPredicate implements Predicate {
 

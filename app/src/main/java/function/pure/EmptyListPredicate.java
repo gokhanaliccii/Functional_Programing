@@ -1,6 +1,6 @@
 package function.pure;
 
-import function.Predicate;
+import function.predicate.Predicate;
 
 import java.util.List;
 

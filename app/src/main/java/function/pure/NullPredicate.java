@@ -1,6 +1,6 @@
 package function.pure;
 
-import function.Predicate;
+import function.predicate.Predicate;
 
 public class NullPredicate <T> implements Predicate<T> {
 

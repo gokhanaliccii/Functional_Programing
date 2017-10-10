@@ -11,7 +11,7 @@ import static org.junit.Assert.*;
 public class ChainedPredicateTest {
 
     @Test
-    public void shouldApplyChainedPredicates() {
+    public void shouldApplyChainedCorrectlyPredicates() {
         User user = new User("Begum", "Alıcı");
         User sameUser = new User("Begum", "Alıcı");
 
@@ -22,5 +22,6 @@ public class ChainedPredicateTest {
 
         assertTrue(passed);
     }
+
 
 }
