@@ -24,4 +24,12 @@ public class User {
 
         return equals;
     }
+
+    public String getName() {
+        return name;
+    }
+
+    public String getSurname() {
+        return surname;
+    }
 }

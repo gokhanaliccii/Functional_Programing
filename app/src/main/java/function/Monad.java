@@ -16,7 +16,7 @@ public class Monad<T> {
         return func.to(t);
     }
 
-    public T getT() {
+    public T get() {
         return t;
     }
 }
