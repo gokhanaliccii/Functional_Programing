@@ -13,7 +13,7 @@ public class Main {
             public Monad<String> to(User user) {
                 return Monad.just(user.getName());
             }
-        }).get();
+        });
 
     }
 
