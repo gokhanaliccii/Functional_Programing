@@ -8,12 +8,7 @@ public class Main {
 
         User user = new User("gokhan", "alıcı");
 
-        Monad.just(user).map(new Func<User, Monad<String>>() {
-            @Override
-            public Monad<String> to(User user) {
-                return Monad.just(user.getName());
-            }
-        });
+
 
     }
 
